@@ -1,0 +1,3 @@
+[submodule "SubModules"]
+	path = SubModules
+	url = https://github.com/lancy-mega/TestCommit.git
