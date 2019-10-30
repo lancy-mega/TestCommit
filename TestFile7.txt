@@ -1,1 +1,2 @@
-Test File 7
+Test File 7 -- change --amend  
+Test 
